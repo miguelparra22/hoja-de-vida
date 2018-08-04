@@ -1,0 +1,60 @@
+style.css
+#Tabla{
+
+	background-color: blue;
+}
+
+
+#Tit{
+
+
+	font-size: 50px;
+	color:white;
+}
+
+
+#caja{
+
+         	border:3px solid green;
+         }
+
+ #linea{
+
+ 	border-width:20px 0px ;
+
+
+
+
+ }
+
+[data-referencia="gato"]{
+	color:yellow;
+}
+
+[data-referencia]{
+	color:blue;
+}
+
+[referencia]{
+	color:green;
+}
+
+
+ div form input:nth-of-type(1){
+   background:blue;
+
+	
+
+}
+
+
+
+#btnEntrar:hover{
+
+	background-color:red;
+
+}
+
+#btnEntrar:active{
+	background-color:blue;
+}
